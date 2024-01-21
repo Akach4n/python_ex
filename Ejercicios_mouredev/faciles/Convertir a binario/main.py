@@ -8,6 +8,6 @@ def convertir_decimal_a_binario(numero: int):
     num_binario = "".join(restos[::-1])
     print(f"El número {decimal} en binario es: {num_binario}")
 
-decimal = int(input("Dime un número decimal para convertir a binario: \n"))
+decimal = int(input("Dime un número decimal para convertir a binario:\n"))
 convertir_decimal_a_binario(decimal)
 
