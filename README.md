@@ -1,2 +1,4 @@
-![python-banner](https://github.com/Akach4n/python_ex/assets/64541925/be2bc52d-8840-44e0-a169-28b7ffd02ede)
-Estos son unos ejercicios para ir aprendiendo python
+<p align="left">
+    <img src="https://blog.rdiez.es/p/python-10-bucles-for-/-while/python-banner_hu549c7a195ca9ebfdc129bb9b88ecb698_198695_1600x0_resize_q75_box.jpg" width="1490px" height="400px">
+</p>
+<h1>Ejercicios de repasoo!!!</h1>
